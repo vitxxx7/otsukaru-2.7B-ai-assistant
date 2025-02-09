@@ -1,0 +1,10 @@
+model_params:
+  model_path: "models/phi-2.Q4_K_M.gguf"
+  n_ctx: 2048
+  n_threads: 4
+  n_gpu_layers: 0
+  temp: 0.7
+  top_k: 50
+  top_p: 0.95
+  max_tokens: 512
+  stop: ["\n```", "\n#", "\n//"]
