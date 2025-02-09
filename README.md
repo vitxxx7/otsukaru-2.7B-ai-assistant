@@ -1,0 +1,1 @@
+# otsukaru-2.7B-ai-assistant
